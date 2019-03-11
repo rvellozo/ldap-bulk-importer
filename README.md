@@ -10,6 +10,7 @@ and tested against an Alfresco instance configured with LDAP sync.
 * [Maven](https://maven.apache.org/download.cgi)
 * [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Git](https://git-scm.com/downloads)
+* [Spring Tool Suite](https://spring.io/tools3/sts/all)
 
 # Running the tool
 * Assuming home directory, run the commands:
