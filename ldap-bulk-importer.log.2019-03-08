@@ -1,0 +1,5 @@
+2019-03-08 13:18:20,985 DEBUG [com.rvellozo.ldap.bulk.importer.service.impl.BindingServiceImpl] [AWT-EventQueue-0] CONNECTING
+2019-03-08 13:28:15,114 DEBUG [com.rvellozo.ldap.bulk.importer.ui.UserInterface] [main] BUILD CONNECTION
+2019-03-08 13:28:16,195 DEBUG [com.rvellozo.ldap.bulk.importer.ui.UserInterface] [main] RVDEBUG FILTER: null
+2019-03-08 13:30:18,396 DEBUG [com.rvellozo.ldap.bulk.importer.ui.UserInterface] [main] BUILD CONNECTIONnull
+2019-03-08 13:30:19,473 DEBUG [com.rvellozo.ldap.bulk.importer.ui.UserInterface] [main] RVDEBUG FILTER: null
