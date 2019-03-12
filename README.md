@@ -58,7 +58,7 @@ group.
 
 ## Alfresco Directory Management page
 
-* ../alfresco/service/enterprise/admin/admin-directorymanagement_
+* _../alfresco/service/enterprise/admin/admin-directorymanagement_
 
 <img src="/src/main/resources/img/alf-dir-mng.png">
 
