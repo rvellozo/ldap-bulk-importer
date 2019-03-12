@@ -48,10 +48,10 @@ and tested against an Alfresco instance configured with LDAP sync.
 ## The Search tab
 <img src="/src/main/resources/img/search.png">
 
+* The search has only been implemented for OpenLdap, a new implementation for AD is required.
 * For convenience, the Search Base defaults to the Base DN and the search filter to the Groups and Users OUs.
 * This is to allow a quick search to find the Group and People OUs.
 * The result can then be copied and pasted to Alfresco Group Search and User Search Base fields as img below:
-* The search has only been implemented for OpenLdap, a new implementation for AD is required.
 
 ## Alfresco Directory Management page
 * ../alfresco/service/enterprise/admin/admin-directorymanagement_
