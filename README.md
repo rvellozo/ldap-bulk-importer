@@ -1,9 +1,8 @@
 # ldap-bulk-importer - What for?
 
-The main purpose of this tool is to test Alfresco LDAP sync with a large data set of users and groups.
+The main purpose of this tool is to test Alfresco LDAP sync with a large data set of users and groups (on a test environment).
 The tool allows you to quickly bulk create users and groups on a LDAP server (OpenLdap or Active Directory) and be used
 and tested against an Alfresco instance configured with LDAP sync.
-* Not to be used in production systems.
 
 # Prerequisites
 * [Maven](https://maven.apache.org/download.cgi)
