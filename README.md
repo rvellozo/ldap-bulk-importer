@@ -48,6 +48,7 @@ group.
 * The tool has been used to test a scenario of 10.000 users.
   
 ## The Search tab
+
 <img src="/src/main/resources/img/search.png">
 
 * The search has only been implemented for OpenLdap, a new implementation for AD is required.
@@ -56,6 +57,7 @@ group.
 * The result can then be copied and pasted to Alfresco Group Search and User Search Base fields as img below:
 
 ## Alfresco Directory Management page
+
 * ../alfresco/service/enterprise/admin/admin-directorymanagement_
 
 <img src="/src/main/resources/img/alf-dir-mng.png">
