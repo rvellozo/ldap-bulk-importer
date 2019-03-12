@@ -53,7 +53,7 @@ group.
 
 * The search has only been implemented for OpenLdap, a new implementation for AD is required.
 * For convenience, the Search Base defaults to the Base DN and the search filter to the Groups and Users OUs.
-* This is to allow a quick search to find the Group and People OUs.
+* This is to allow a quick search to find the Group and People OUs created by the tool.
 * The result can then be copied and pasted to Alfresco Group Search and User Search Base fields as img below:
 
 ## Alfresco Directory Management page
