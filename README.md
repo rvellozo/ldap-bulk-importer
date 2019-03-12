@@ -20,21 +20,18 @@ and tested against an Alfresco instance configured with LDAP sync.
 ```
 
 # Using the tool
-
 ### The Connect tab
 
 <img src="/src/main/resources/img/connect.png" >
 
 * Check you can connect to your LDAP server
 * The Authenticate, Users/Groups and Search tabs will be disabled until you have successfully connected to the LDAP server
-
 ### The Authenticate tab
 
 <img src="/src/main/resources/img/authenticate.png">
 
 * Check you can authenticate to your LDAP server
 * The Users/Groups and Search tabs will be disabled until you have successfully authenticated to the LDAP server
-
 ## The Users and Groups tab
 <img src="/src/main/resources/img/users-groups.png" width="400">
 
