@@ -56,7 +56,7 @@ and tested against an Alfresco instance configured with LDAP sync.
 
 <img src="/src/main/resources/img/alf-dir-mng.png">
 
-# Final result at OpenLDAP server
+# Final result in the OpenLDAP server
 
 <img src="/src/main/resources/img/ldap-server.png">
 
