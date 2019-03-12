@@ -63,5 +63,6 @@ and tested against an Alfresco instance configured with LDAP sync.
 <img src="/src/main/resources/img/ldap-server.png">
 
 # Notes
-* Active Directory
-  * Users are created without password, if needing to log in Alfresco, reset the user password at Active Directory level then trigger Alfresco     LDAP sync
+* Once the Alfresco LDAP sync is completed, if you need to login with one of the synchronized users:
+** For OpenLDAP use password 'secret', see application.properties file
+** For Active Directory, users were created without password, reset the user password at Active Directory level then trigger Alfresco     LDAP sync.
