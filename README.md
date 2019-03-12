@@ -41,7 +41,9 @@ and tested against an Alfresco instance configured with LDAP sync.
 <img src="/src/main/resources/img/users-groups.png" width="400">
 
 * Enter the number of groups and users to be created
-* Users are created as they're associated with the group, so in this case, it will create a total of 25 users - 5 users for each group
+* Users are created as they're added as a member of group, that is, for each group created, it will create 5 users, and in this case it   will create a total of 25 users - 5 users in each 
+group.
+
 * The prefix is there to allow special characters to be added to user/group name - testing purpose.
 * The tool has been used to test a scenario of 10.000 users.
   
