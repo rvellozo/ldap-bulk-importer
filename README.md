@@ -33,6 +33,7 @@ and tested against an Alfresco instance configured with LDAP sync.
 * Check you can authenticate to your LDAP server
 * The Users/Groups and Search tabs will be disabled until you have successfully authenticated to the LDAP server
 ## The Users and Groups tab
+
 <img src="/src/main/resources/img/users-groups.png" width="400">
 
 * Enter the number of groups and users to be created
